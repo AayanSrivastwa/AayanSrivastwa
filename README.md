@@ -1,5 +1,12 @@
 # 💫 About Me:
-## Hi there 👋 I'm **Aayan Srivastwa**<br>🌱 I’m a passionate and curious **developer** who loves building cool things with code.<br>👯 I’m looking to collaborate on  Python, Web Development projects<br>🌱 I’m currently learning - Advanced **Python** - Full-stack web development - Blockchain programming -Backend frameworks<br>📌 Skills:  <br>Python | Web Development | Move | Git | HTML | CSS | JavaScript<br>🤝 Let’s Connect<br>Contact Me At aayansrivastwa18@gmail.com<br>
+## Hi there 👋 I'm **Aayan Srivastwa**
+🌱 I’m a passionate and curious **developer** who loves building cool things with code.
+👯 I’m looking to collaborate on  Python, Web Development projects
+🌱 I’m currently learning - Advanced **Python** - Full-stack web development - Blockchain programming -Backend frameworks
+
+📌 Skills:  <br>Python | Web Development | Move | Git | HTML | CSS | JavaScript
+
+🤝 Let’s Connect<br>Contact Me At aayansrivastwa18@gmail.com<br>
 
 
 ## 🌐 Socials:
