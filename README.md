@@ -1,8 +1,8 @@
 # Hi, I'm Aayan Srivastwa 👋
 
-### CSE Cybersecurity Student | Frontend Developer | Tech Enthusiast
-
 I'm a **B.Tech CSE (Cybersecurity)** student who enjoys building projects, learning new technologies, and solving programming problems. I'm currently focusing on **Web Development, Cybersecurity, DSA, and Blockchain**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayan-srivastwa-303667380/)
 
 ---
 
@@ -45,43 +45,11 @@ I'm a **B.Tech CSE (Cybersecurity)** student who enjoys building projects, learn
 
 ---
 
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayanSrivastwa&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanSrivastwa&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=AayanSrivastwa&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
+</div>
 
 ---
 
-## 🧠 DSA Journey
-
-Currently practicing:
-
-* Arrays
-* Strings
-* Linked Lists
-* Stack & Queue
-* Recursion
-* Searching & Sorting
-* Trees
-* BFS & DFS
-* Binary Search
-* Time & Space Complexity
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/AayanSrivastwa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 💡 "Build. Break. Learn. Repeat."
-
-⭐ Feel free to explore my repositories and follow my journey as I learn, build, and grow in tech.
+<p align="center" text="bold">"Build. Break. Learn. Repeat."</p>
