@@ -45,27 +45,6 @@ I'm a **B.Tech CSE (Cybersecurity)** student who enjoys building projects, learn
 
 ---
 
-## 📌 Featured Projects
-
-### 🔗 CREDLYTIC — Blockchain Certificate Vault
-
-A blockchain-based platform for securely storing and verifying academic and skill certificates.
-
-**Tech:** HTML, CSS, JavaScript, Python Flask, REST API, Supabase, Aptos Testnet, Petra Wallet
-
-### 🌐 Smart Event Dashboard
-
-A web-based dashboard for managing and displaying events with an interactive frontend.
-
-**Tech:** HTML, CSS, JavaScript, DOM
-
-### 🌤️ Air Quality
-
-A web project focused on displaying and working with air-quality information through a simple user interface.
-
-**Tech:** HTML, CSS, JavaScript
-
----
 
 ## 📊 GitHub Stats
 
