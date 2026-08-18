@@ -1,20 +1,108 @@
-# 💫 About Me:
-## Hi there 👋 I'm **Aayan Srivastwa**
-🌱 I’m a passionate and curious **developer** who loves building cool things with code.
+# Hi, I'm Aayan Srivastwa 👋
 
+### CSE Cybersecurity Student | Frontend Developer | Tech Enthusiast
 
-👯 I’m looking to collaborate on  Python, Web Development projects.
+I'm a **B.Tech CSE (Cybersecurity)** student who enjoys building projects, learning new technologies, and solving programming problems. I'm currently focusing on **Web Development, Cybersecurity, DSA, and Blockchain**.
 
+---
 
-🌱 I’m currently learning - Advanced **Python** - Full-stack web development - Blockchain programming -Backend frameworks
+## 🚀 About Me
 
-📌 Skills:  <br>Python | Web Development | Move | Git | HTML | CSS | JavaScript
+* 🎓 B.Tech CSE — Cybersecurity
+* 💻 Interested in **Frontend Development & Cybersecurity**
+* 🌱 Currently learning **DSA, React, JavaScript & Cybersecurity**
+* 🔗 Exploring **Blockchain & Web3**
+* 🛠️ Building projects to improve my practical skills
+* 🎯 Goal: Become a strong developer with a solid cybersecurity foundation
 
-🤝 Let’s Connect<br>Contact Me At aayansrivastwa18@gmail.com<br>
+---
 
+## 🧰 Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayan-srivastwa-303667380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayansrivastwa18@gmail.com) 
+### Languages
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
+### Frameworks & Tools
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+
+### Currently Exploring
+
+* 🔐 Cybersecurity
+* ⛓️ Blockchain & Web3
+* ⚛️ React
+* 🧠 Data Structures & Algorithms
+* 🌐 Backend & REST APIs
+
+---
+
+## 📌 Featured Projects
+
+### 🔗 CREDLYTIC — Blockchain Certificate Vault
+
+A blockchain-based platform for securely storing and verifying academic and skill certificates.
+
+**Tech:** HTML, CSS, JavaScript, Python Flask, REST API, Supabase, Aptos Testnet, Petra Wallet
+
+### 🌐 Smart Event Dashboard
+
+A web-based dashboard for managing and displaying events with an interactive frontend.
+
+**Tech:** HTML, CSS, JavaScript, DOM
+
+### 🌤️ Air Quality
+
+A web project focused on displaying and working with air-quality information through a simple user interface.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayanSrivastwa&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanSrivastwa&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧠 DSA Journey
+
+Currently practicing:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Searching & Sorting
+* Trees
+* BFS & DFS
+* Binary Search
+* Time & Space Complexity
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/AayanSrivastwa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Build. Break. Learn. Repeat."
+
+⭐ Feel free to explore my repositories and follow my journey as I learn, build, and grow in tech.
