@@ -9,11 +9,11 @@ I'm a **B.Tech CSE (Cybersecurity)** student who enjoys building projects, learn
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE — Cybersecurity
-* 💻 Interested in **Frontend Development & Cybersecurity**
-* 🌱 Currently learning **DSA, React, JavaScript & Cybersecurity**
-* 🔗 Exploring **Blockchain & Web3**
-* 🛠️ Building projects to improve my practical skills
-* 🎯 Goal: Become a strong developer with a solid cybersecurity foundation
+* 💻 Interested in **Frontend Development & Cybersecurity**.
+* 🌱 Currently learning **DSA, React, JavaScript & Cybersecurity**.
+* 🔗 Exploring **Blockchain & Web3**.
+* 🛠️ Building projects to improve my practical skills.
+* 🎯 Goal: Become a strong developer with a solid cybersecurity foundation.
 
 ---
 
